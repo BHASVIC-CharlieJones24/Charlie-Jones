@@ -1,2 +1,2 @@
 # Charlie-Jones
-My personal repository 
+# About me
