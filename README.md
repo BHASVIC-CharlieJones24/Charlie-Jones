@@ -14,5 +14,5 @@ I have achieved a grade 6 in computer science GCSE
 
 ## Project Repository
 This repository contains examples of code from projects ive worked on:
-https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-CharlieJones24
+https://github.com/BHASVIC-CharlieJones24/Projects.git
 
